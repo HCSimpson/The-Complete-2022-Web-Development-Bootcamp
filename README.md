@@ -18,15 +18,3 @@ This repository contains:
 
 ## <a name="install"></a>Install
 This document utilizes the standards set by RichardLitt and team in the [Standard Readme repository](https://github.com/RichardLitt/standard-readme "Standard Readme repository").
-
-
-# Low Poly Landscapes - Blender Bite Sized Course
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-<br>
-This repository contains:
-<br>
-1. 
-<br>
-2. 
-<br>
-3. 
